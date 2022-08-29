@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Gopakanya Echarry"
 date: "Data 2401"
 output: html_document
 ---
@@ -32,3 +32,15 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
  
+ #Wise Words
+> "To live is to suffer to survive is to find some meaning in the suffering."
+[link](https://www.brainyquote.com/authors/friedrich-nietzsche-quotes)
+ 
+ ##My semester
+ |Data 2401|Python2311|2305|Linear Algebra|
+ |
+ ###I recommend
+ 
+```{r}
+'
+``` 
